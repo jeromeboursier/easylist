@@ -37,7 +37,6 @@
 ||cmp.gemius.com^
 ||cmp.quantcast.com/choice/*/www.themoneytizer.com/choice.js
 ||cmp.setupcmp.com^
-||cmp.sibbo.net^
 ||collectconsent.com^$third-party
 ||conscent.in^$third-party
 ||consensu.io^$third-party
@@ -45,6 +44,7 @@
 ||consent.dadoslegais.com^
 ||consent.digiapi.com^
 ||consent.dk^$third-party
+||consent.nitrocnct.com^
 ||consent.prointernet.com^
 ||consent.trustarc.com/get?name=$subdocument,domain=avantiwestcoast.co.uk|oracle.com
 ||consent.truste.com/get?name=notice.js$script
@@ -69,11 +69,11 @@
 ||cookiechoices.org^$third-party
 ||cookiecode.nl/dist/latest.js
 ||cookieconsent.com^$third-party
+||cookieconsent.dfikir.com^$third-party
 ||cookiefirst.com^$third-party
 ||cookieform.pl^$third-party
 ||cookiehub.net^$third-party
-||cookieinformation.com/*/*.js$third-party
-||cookieinformation.com^$subdocument,third-party
+||cookieinformation.com^$third-party
 ||cookieinfoscript.com^$third-party
 ||cookielab.dk^$third-party
 ||cookiemanager.onm.de^
@@ -115,6 +115,7 @@
 ||fusedeck.net^$third-party
 ||gatekeeperconsent.com^$third-party
 ||gdpr-legal-cookie.beeclever.app^$third-party
+||gdpr-legal-cookie.com^$third-party
 ||gdpr-service.herokuapp.com^$third-party
 ||gdpr-settings.s3.amazonaws.com^
 ||gdpr.es^$third-party
@@ -138,6 +139,7 @@
 ||jsdelivr.net/gh/accept-all/cdn/banner.js
 ||ketchcdn.com^$third-party
 ||ketchjs.com/lanyard/
+||kiprotect.com/v1/privacy-managers/
 ||kookiecheck.cz/static/script/
 ||lawwwing.com/widgets/$third-party
 ||legalmonster.com^$third-party
@@ -214,6 +216,7 @@
 ||volksbund-cookie.de^$third-party
 ||webcache-eu.datareporter.eu^
 ||webcache.datareporter.eu^
+||websitepolicies.io^$third-party
 ||widget.clym-sdk.net^$third-party
 ||widgets.openli.com^
 ||wpcc.io^$third-party

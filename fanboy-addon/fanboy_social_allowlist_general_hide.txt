@@ -19,6 +19,7 @@ free18.net#@#.addthis_default_style
 nrc.gov,schonmagazine.com#@#.addthis_toolbox
 heise.de#@#.article-footer__sharing
 banki.ru,neowin.net,unionesarda.it#@#.article-share
+sanmarinortv.sm#@#.article-share-cnt
 heise.de#@#.article-sharing
 adme.media#@#.article-social
 niedziela.pl#@#.article-social-btn
@@ -46,7 +47,6 @@ wpolityce.pl#@#.icon-facebook-official
 petsmart.com#@#.icon-facebook2
 roblox.com#@#.inline-social
 dikidi.net#@#.item-shares
-tradingview.com#@#.js-follow-user
 faz.net#@#.js-sharebuttons
 deezer.com#@#.link-social
 lemonde.fr#@#.meta__social

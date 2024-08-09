@@ -2756,6 +2756,7 @@
 ###half_page_ad_300x600
 ###halfpagead
 ###head-ad
+###head-ad-text-wrap
 ###head-ad-timer
 ###head-ads
 ###head-advertisement
@@ -2810,6 +2811,7 @@
 ###headerAdsWrapper
 ###headerAdv
 ###headerAdvert
+###headerTopAd
 ###header_ad
 ###header_ad_728
 ###header_ad_728_90
@@ -2919,6 +2921,7 @@
 ###hp-right-ad
 ###hp-store-ad
 ###hpAdVideo
+###humix-vid-ezAutoMatch
 ###idDivAd
 ###id_SearchAds
 ###iframe-ad
@@ -2929,6 +2932,7 @@
 ###ima_ads-2
 ###ima_ads-3
 ###ima_ads-4
+###imgAddDirectLink
 ###imgad1
 ###imu_ad_module
 ###in-article-ad
@@ -4624,6 +4628,7 @@
 ##.a-ad--skyscraper
 ##.a-ad--wide
 ##.a-d-250
+##.a-d-90
 ##.a-d-container
 ##.a-d-holder-container
 ##.a-dserver
@@ -4826,6 +4831,8 @@
 ##.ad-970
 ##.ad-970-250
 ##.ad-970-90
+##.ad-970x250
+##.ad-970x90
 ##.ad-Advert_Placeholder
 ##.ad-E
 ##.ad-LREC
@@ -5412,7 +5419,9 @@
 ##.ad-panel__googlead
 ##.ad-panorama
 ##.ad-parallax
+##.ad-parent-billboard
 ##.ad-parent-class
+##.ad-parent-halfpage
 ##.ad-pb
 ##.ad-peg
 ##.ad-pencil-margin
@@ -7018,6 +7027,7 @@
 ##.adherebox
 ##.adhesion-block
 ##.adhesion-header
+##.adhesion:not(body)
 ##.adhesiveAdWrapper
 ##.adhesiveWrapper
 ##.adhesive_holder
@@ -8001,6 +8011,7 @@
 ##.adthrive-placeholder-content
 ##.adthrive-placeholder-header
 ##.adthrive-placeholder-static-sidebar
+##.adthrive-sidebar
 ##.adthrive-video-player
 ##.adthrive_custom_ad
 ##.adtile
@@ -9432,7 +9443,6 @@
 ##.catalog_ads
 ##.category-ad:not(html):not(body):not(.post)
 ##.category-ads:not(html):not(body):not(.post)
-##.category-advertorial
 ##.categoryMosaic-advertising
 ##.categoryMosaic-advertisingText
 ##.cazAd
@@ -11884,6 +11894,7 @@
 ##.responsive-ads
 ##.responsiveAdsense
 ##.responsive_ad_top
+##.responsive_ads_468x60
 ##.result-ad
 ##.result-sponsored
 ##.resultAd
@@ -12409,7 +12420,6 @@
 ##.sponsored-buttons
 ##.sponsored-container
 ##.sponsored-container-bottom
-##.sponsored-content
 ##.sponsored-default
 ##.sponsored-display-ad
 ##.sponsored-header
@@ -13058,6 +13068,7 @@
 ##.vuukle-ads
 ##.vw-header__ads
 ##.w-ad-box
+##.w-adsninja-video-player
 ##.w-content--ad
 ##.wAdvert
 ##.w_AdExternal
@@ -13332,6 +13343,7 @@
 ##[href^="http://mypillow.com/"] > img
 ##[href^="http://www.mypillow.com/"] > img
 ##[href^="https://ad.admitad.com/"]
+##[href^="https://ad1.adfarm1.adition.com/"]
 ##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://antiagingbed.com/discount/"] > img
 ##[href^="https://ap.octopuspop.com/click/"] > img
@@ -13425,6 +13437,7 @@
 ##a[href^="http://www.h4trck.com/"]
 ##a[href^="http://www.iyalc.com/"]
 ##a[href^="http://www.mrskin.com/tour"]
+##a[href^="https://123-stream.org/"]
 ##a[href^="https://1betandgonow.com/"]
 ##a[href^="https://6-partner.com/"]
 ##a[href^="https://81ac.xyz/"]
@@ -13549,6 +13562,7 @@
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://loboclick.com/"]
+##a[href^="https://lone-pack.com/"]
 ##a[href^="https://losingoldfry.com/"]
 ##a[href^="https://m.do.co/c/"] > img
 ##a[href^="https://maymooth-stopic.com/"]
@@ -13581,6 +13595,7 @@
 ##a[href^="https://s.zlinkd.com/"]
 ##a[href^="https://safesurfingtoday.com/"][href*="?skip="]
 ##a[href^="https://serve.awmdelivery.com/"]
+##a[href^="https://service.bv-aff-trx.com/"]
 ##a[href^="https://sexynearme.com/"]
 ##a[href^="https://slkmis.com/"]
 ##a[href^="https://snowdayonline.xyz/"]
@@ -13607,6 +13622,7 @@
 ##a[href^="https://track.1234sd123.com/"]
 ##a[href^="https://track.adform.net/"]
 ##a[href^="https://track.afcpatrk.com/"]
+##a[href^="https://track.aftrk3.com/"]
 ##a[href^="https://track.totalav.com/"]
 ##a[href^="https://track.wg-aff.com"]
 ##a[href^="https://tracker.loropartners.com/"]
@@ -13715,6 +13731,9 @@
 ##zeus-ad
 ! sellwild-loader
 ###sellwild-loader
+! fansided. mentalfloss.com,netflixlife.com,winteriscoming.net,ipreferreading.com
+##.ad_1tdq7q5
+##.style_k8mr7b-o_O-style_uhlm2
 ! 247slots.org/247checkers.com/247backgammon.org/247hearts.com etc
 ##.aspace-300x169
 ##.aspace-300x250
@@ -13752,7 +13771,7 @@
 ###mgb-container > #mgb
 ! https://github.com/easylist/easylist/pull/11962
 ###kt_player > a[target="_blank"]
-###kt_player > div[style="position: absolute; inset: 0px; z-index: 170;"]
+###kt_player > div[style$="display: block;"][style*="inset: 0px;"]
 ! Slashdot "Deals" (covers web/ipfs/onion)
 ###slashboxes > .deals-rail
 ##.scroll-fixable.rail-right > .deals-rail
@@ -13785,6 +13804,7 @@
 ###jwplayer-container-div
 ###jwplayer_contextual_player_div
 ###kargo-player
+###mm-player-placeholder-large-screen
 ###mplayer-embed
 ###primis-holder
 ###primis_intext
@@ -13837,6 +13857,114 @@
 ##.vidible-wrapper
 ##.wps-player-wrap
 ##[class^="s2nPlayer"]
+! Outbrain
+###around-the-web
+###g-outbrain
+###js-outbrain-module
+###js-outbrain-relateds
+###outbrain
+###outbrain-id
+###outbrain-section
+###outbrain1
+###outbrainWidget
+###outbrain_widget_0
+##.ArticleFooter-outbrain
+##.ArticleOutbrainLocal
+##.OUTBRAIN
+##.Outbrain
+##.article_OutbrainContent
+##.box-outbrain
+##.c2_outbrain
+##.component-outbrain
+##.ob-smartfeed-wrapper
+##.outbrain
+##.outbrain-ads
+##.outbrain-bloc
+##.outbrain-content
+##.outbrain-group
+##.outbrain-module
+##.outbrain-placeholder
+##.outbrain-recommended
+##.outbrain-reserved-space
+##.outbrain-single-bottom
+##.outbrain-widget
+##.outbrain-wrap
+##.outbrain-wrapper
+##.outbrain-wrapper-container
+##.outbrain-wrapper-outer
+##.outbrainWidget
+##.outbrain__main
+##.outbrain_container
+##.outbrain_skybox
+##.outbrainbox
+##.sics-component__outbrain
+##.sidebar-outbrain
+##.voc-ob-wrapper
+##.widget_outbrain
+##.widget_outbrain_widget
+! Taboola
+###block-taboolablock
+###js-Taboola-Container-0
+###moduleTaboolaRightRail
+###original_taboola
+###possible_taboola
+###taboola
+###taboola-above-homepage-thumbnails
+###taboola-below-article-thumbnails
+###taboola-below-article-thumbnails-2
+###taboola-below-article-thumbnails-mg
+###taboola-below-disco-board
+###taboola-below-homepage-thumbnails-2
+###taboola-below-homepage-thumbnails-3
+###taboola-below-main-column
+###taboola-belowarticle
+###taboola-bottom
+###taboola-bottom-main-column
+###taboola-div
+###taboola-homepage-thumbnails
+###taboola-homepage-thumbnails-desktop
+###taboola-horizontal-toolbar
+###taboola-in-feed-thumbnails
+###taboola-mid-main-column-thumbnails
+###taboola-native-right-rail-thumbnails
+###taboola-right-rail
+###taboola-right-rail-text-right
+###taboola-right-rail-thumbnails
+###taboola-right-rail-thumbnails-2nd
+###taboola-text-2-columns-mix
+###taboola-vid-container
+###taboola-widget-wrapper
+###taboola_bottom
+###taboola_side
+###taboola_wrapper
+##.divider-taboola
+##.js-taboola
+##.m-article-taboola
+##.mc-column-Taboola
+##.slottaboola
+##.taboola
+##.taboola-banner
+##.taboola-bottom-adunit
+##.taboola-container
+##.taboola-frame
+##.taboola-inbetweener
+##.taboola-like-block
+##.taboola-module
+##.taboola-recommends
+##.taboola-sidebar
+##.taboola-sidebar-container
+##.taboola-skip-wrapper
+##.taboola-thumbnails-container
+##.taboola-vertical
+##.taboola-wrapper
+##.taboolaDiv
+##.taboola_module
+##.taboolaloader
+##.trc-first-recommendation
+##.trc-spotlight-first-recommendation
+##.trc_excludable
+##.trc_spotlight_item
+##[data-taboola-options]
 ! Ad widgets
 ##.BeOpWidget
 ! VPN Affiliate Banners
@@ -13901,7 +14029,7 @@
 ##amp-ad-custom
 ##amp-connatix-player
 ##amp-fx-flying-carpet
-! Genric mobile element
+! Generic mobile element
 ###mobile-swipe-banner
 ! Sinclair Broadcast Group (ktul.com/komonews.com/kfdm.com/wjla.com/etc.)
 ###banner_pos1_ddb_0
@@ -13920,6 +14048,7 @@
 ##.index-module_adBeforeContent__AMXn
 ##.index-module_rightrailBottom__IJEl
 ##.index-module_rightrailTop__mag4
+##.index-module_sd_background__Um4w
 ##.premium_PremiumPlacement__2dEp0
 ! In video div
 ###ultimedia_wrapper
@@ -13996,6 +14125,7 @@
 ##.taboolaHeight
 ##.taboola__container
 ##.taboola_blk
+##.taboola_body_ad
 ##.taboola_container
 ##.taboola_lhs
 ##.trb_taboola

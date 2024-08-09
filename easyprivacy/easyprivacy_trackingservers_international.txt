@@ -487,6 +487,7 @@
 ! Georgian
 ||tbcconnect.ge^$third-party
 ! Greek
+||appocalypsis.com^$third-party
 ||linkwi.se^$third-party
 ! Hebrew
 ||enter-system.com^$third-party
@@ -730,6 +731,7 @@
 ||bob-recs.com^$third-party
 ||btg360.com.br^$third-party
 ||clearsale.com.br^$third-party
+||dataroyal.com.br^$third-party
 ||dataunion.com.br^$third-party
 ||denakop.com^$third-party
 ||engageya.com^$third-party
@@ -790,9 +792,11 @@
 ||cityua.net^$third-party
 ||clubcollector.com^$third-party
 ||cnstats.ru^$third-party
+||comagic.ru^$third-party
 ||cpaevent.ru^$third-party
 ||cszz.ru^$third-party
 ||culturaltracking.ru^$third-party
+||detmir-stats.ru^$third-party
 ||dircont3.com^$third-party
 ||directcrm.ru^$third-party
 ||e-kuzbass.ru^$third-party
@@ -848,6 +852,7 @@
 ||rutarget.ru^$third-party
 ||sarov.ws^$third-party
 ||sas.com^$third-party
+||sbermarketing.ru^$third-party
 ||semantiqo.com^$third-party
 ||sensor.org.ua^$third-party
 ||seo-master.net^$third-party

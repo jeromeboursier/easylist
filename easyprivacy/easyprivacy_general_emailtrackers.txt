@@ -1,5 +1,8 @@
 ! easyprivacy_general_emailtrackers.txt
 ! Email tracking pixels
+%2Fevent.gif%3F
+%2Fo.gif&
+%2Fopen.aspx%3F
 &mi_ecmp=
 -track-email-open?
 .acemlna.com/lt.php?$image
@@ -128,9 +131,11 @@
 /atlas-trk.prd.msg.ss-inf.net/*$image
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
+/c.vialoops.com/*$image
 /click.*/q/*$image
 /click.em.nike.com/*$image
 /click.email.$image
+/click.instahyre.com/*$image
 /click.php?c=
 /clicks.*/q/*$image
 /clicks.email.$image
@@ -151,6 +156,8 @@
 /eventing.coursera.org/img/*
 /exmo.email/open.html
 /gate.amnesty-international.*/open.php?
+/global-cdm.net:443/sap/public/cuan/*/pixel.gif
+/go.news.fly.io/e/o/*$image
 /gp/r.html?$image
 /gridinbound.blob.core.
 /i?aid=*&se_ac=open&$image
@@ -210,6 +217,7 @@
 /sli.*/imp?$image
 /sptracking.
 /ss/o/*.gif
+/t.contactlab.it/v/*
 /t.ifly.southwest.com/*$image
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image

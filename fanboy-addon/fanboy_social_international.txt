@@ -14,10 +14,12 @@ news.bg##.twitter-icon
 !---------- German Site Specific Hiding Rules ----------
 !
 pctipp.ch###buttons-social
+coating-converting.de,umweltwirtschaft.com###footer-middle
 dls-logistics.de###footerlinks
 anonymousnews.org,de.rt.com###google_news_banner
 soeren-hentzschel.at###services-sidebar-icons
 soeren-hentzschel.at###sharing
+coating-converting.de,umweltwirtschaft.com###social-icon-col
 rtde.tech##.ArticleView-googleNewsBanner
 rtde.tech##.ArticleView-rotatorBanners
 finanzfrage.net,gutefrage.net##.Bigfoot-socialLinks
@@ -27,11 +29,14 @@ horizont.net##.SiteHeaderSticky_share
 krone.at##.al__socials
 giga.de##.alice-push-channel
 pcgameshardware.de##.artSocialLinks
+finanznachrichten.de##.article--footer
 butenunbinnen.de##.article-addons
 wienerzeitung.at##.article-toolbar
 snanews.de##.article__google-news
+n-tv.de##.article__share-wrapper
 fnp.de,sport1.de##.bookmarks
 pipeline.de##.bookspalte
+t3n.de##.c-social
 adticket.de##.c-ticket-fan__social-icons
 nebelspalter.ch##.ccm-element-social-share
 soeren-hentzschel.at##.circle-icons
@@ -68,6 +73,7 @@ evrejskaja-panorama.de,juedischerundschau.de##.sideSocialMedia
 mindfactory.de##.sliderbar
 derfinanzinvestor.de,esg-aktien.de,inv3st.de,kapitalerhoehungen.de##.smIconsWrap
 urlaubsguru.de##.smeShare
+goldinvest.de##.social-block
 formel1.de##.social-buttons_container
 deutsche-wirtschafts-nachrichten.de##.social-line
 golem.de##.social-tools
@@ -78,9 +84,11 @@ sportnews.bz##.socialshare
 geo.de##.soucials
 bafoeg-rechner.de,studis-online.de##.ston-shareicn
 presseportal.de##.story-sharing
+t3n.de##.tg-pockethinweis
 t3n.de##.tg-social-bottom
 kleinezeitung.at##.tik4-sharing
 ndr.de##.to_facebook
+goldinvest.de##.uael-marketing-button
 dioezesanmuseum-rottenburg.de##.uncode-vc-social
 watson.ch##.watson-sharebuttons
 redensarten-index.de##[href="https://www.pinterest.de/redensartenindex/"]
@@ -139,6 +147,8 @@ rtl.fr##.ld
 clubic.com##.list-footer-rs
 terresinovia.fr##.lksociaux
 lesnumeriques.com##.ln__m-shr
+francetvinfo.fr##.m-share-row
+over-blog.com##.m-social-networks
 autoplus.fr##.nl-social
 europe1.fr##.partage
 quechoisir.org##.qc-footer_social-media-links
@@ -184,6 +194,7 @@ albayan.ae##.follow-google
 trtarabi.com##.google-news-button-wrapper
 alekhbariya.net##.icon-bar
 qatarradio.qa##.icon-social
+fellahe.com##.mh_share_footer
 kharphonk.com##.pinit
 hannibaltv.com.tn##.rs_bas
 pramgnet.com##.sbnr
@@ -236,6 +247,7 @@ exmoo.com###fixed-wechat
 exmoo.com###footer-wechat-container
 lizhi.fm##.attentionUs
 ettoday.net##.et_social_2
+news.cn##.pageShare
 people.com.cn##.section-common-share-wrap
 mingpao.com##.ssm
 takungpao.com.hk##.tkp_con_share
@@ -282,6 +294,8 @@ zeelandnet.nl##.zld-ftr__social
 sporza.be##[class*="_share_"]
 nieuwsblad.be##[class*="shareitemlist"]
 omroepbrabant.nl##[class^="shares_shares_"]
+vkmag.com##a[onclick*="facebookShare"]
+vkmag.com##a[onclick*="twitterShare"]
 gooieneemlander.nl,haarlemsdagblad.nl,leidschdagblad.nl,noordhollandsdagblad.nl##div[class*="sharesticky"]
 nhnieuws.nl##div[class^="article_share_"]
 pu.nl##div[class^="share_"]
@@ -327,8 +341,10 @@ tilestwra.com##.post-google-news-link
 !
 !---------- Hebrew Site Specific Hiding Rules ----------
 !
+glz.co.il###shareIcon
 themarker.com##.art__tools
-glz.co.il##.facebookSection
+mekomit.co.il##.foo_t_n_r_icon
+mekomit.co.il##.single_bottom_discovers_p1_share
 !
 !---------- Hungarian Specific Media Elements ----------
 !
@@ -409,11 +425,12 @@ giornaledibrescia.it,teletutto.it##.btn-toolbar
 money.it##.btnYou
 cirio.it##.cirioYou
 giocodigitale.game##.cloux-social-links
+calciomercato.com##.cm-share
 lemillericette.it##.code-block-10
 consigli.it##.company-social
 toplegal.it##.cond
 torinomagazine.it##.condisione-social
-lacronacadiravenna.it,livesicilia.it,portoravennanews.com##.condividi
+lacronacadiravenna.it,livesicilia.it,portoravennanews.com,sportoutdoor.tv##.condividi
 stabiachannel.it##.condividi-button
 valsusaoggi.it##.condividipagcatd
 valsusaoggi.it##.condividisottod
@@ -670,21 +687,25 @@ tatarada.com.br###single-compartilhe
 spinoff.com.br###sociaisnk
 tecnoblog.net###tb-banner-whatsapp
 bandnewsfm.com.br##.DivIconsTopo
+cartacapital.com.br##.a-author__socials
 agazeta.com.br##.ag-mobile-social-widget
 dnoticias.pt##.article--aside_share
 sicnoticias.pt##.article-tools-container
 expresso.pt##.articleShareToolsContainer
+brasil247.com##.article__notif
 maquinadoesporte.com.br##.ast-footer-social-wrap
 maquinadoesporte.com.br##.ast-post-social-sharing
 metroworldnews.com.br##.b-footer__social-links-container
 jornaldocomercio.com##.barra-acoes-container
 yamaha-motor.com.br##.barra-midias
 vrum.com.br##.barradeacoes__acionarredessociais
+uol.com.br##.blogger-social
 jornalrazao.com##.bn-block-brand
 otempo.com.br##.botao-google-news
-megacidade.com##.botoes-compartilhar
+maisregiao.com.br,megacidade.com##.botoes-compartilhar
 nerdrecomenda.com.br##.box--share-single-page
 nerdrecomenda.com.br##.box-networks
+revistaforum.com.br##.btn-seguinos-gnews
 otempo.com.br##.btn-whatsapp
 estadao.com.br##.button-share-icon
 buzzfeed.com.br##.buzzfeed-socials
@@ -707,6 +728,8 @@ jovempan.com.br##.cta-model
 aventurasnahistoria.uol.com.br##.d-flex.col-12.col-sm-4.align-items-end.justify-content-end
 superesportes.com.br##.docs
 supertvaovivo.co##.entry-share-link
+acheisudoeste.com.br##.er-social-share-tag
+maisregiao.com.br##.fb-page
 fastcompanybrasil.com##.fcbr_social_share
 poder360.com.br##.fixed-list
 portalrapmais.com##.flex.gap-2.justify-center.border-b.border-\[\#ebebeb\].mb-3\.5.pb-3\.5
@@ -717,6 +740,7 @@ steamverde.net##.focus-social
 metroworldnews.com.br##.follow-us-wrap
 oantagonista.com.br##.footer-content__social
 noticiasaominuto.com##.footer-info-social
+vermelho.org.br##.footer-social-menu
 exame.com##.gGWTmb
 screenweek.it##.hashtags
 aventurasnahistoria.uol.com.br##.header-block-right.d-block.my-auto.ml-auto.ml-md-0
@@ -733,28 +757,34 @@ jota.info##.jota-article__share
 uol.com.br##.jupiter-share
 exame.com##.kifGPa
 colunadofla.com##.l-shared-sec-outer
+brasil247.com##.links
 pinkluna.com.br##.lista-redes
 canaltech.com.br##.mb-8.flex.flex-col.flex-wrap.justify-between.gap-3.tablet\:flex-row
+vermelho.org.br##.menu-social-networks
 atarde.com.br,folhadelondrina.com.br##.mw-botaoGoogle
 mercadoshops.com.br##.nav-tools-footer__social-media
+sapo.pt##.nc-social
 noticiasaominuto.com##.news-social-bottom
 suno.com.br##.newsContent__article__meta__socials
 noticiasaominuto.com,noticiasaominuto.com.br##.nm-fb-share
 noataque.com.br##.noticia-share
 tnh1.com.br##.noticias-single-header__share__list
+vermelho.org.br##.page--share-wrapper
 recordeuropa.com##.partilha
 cmjornal.pt##.partilhas
 jcconcursos.com.br##.pl-1
 mercadowebminas.com.br##.post-sharing-menu
-jornaldocomercio.com,portalperifacon.com,tvcultura.com.br##.redes
+acordacidade.com.br,jornaldocomercio.com,lula.com.br,portalperifacon.com,tvcultura.com.br##.redes
 portaldozacarias.com.br##.redes-socias-noticia
 defatoonline.com.br##.row_gn
+lula.com.br##.share-bt
 ojornalextra.com.br##.share-card
 gp1.com.br##.share-float
 olhardigital.com.br##.share-header
 oantagonista.com.br##.share-posts
 sicnoticias.pt##.share-toggle-wrapper
 jornaldenegocios.pt##.shareModal
+acordacidade.com.br##.shared
 trabalhabrasil.com.br##.sharedVacancy
 gkpb.com.br##.sigaInstagram
 netcine.to##.soci
@@ -770,6 +800,7 @@ record.pt##.social_stick
 meiobit.com##.socialfloating
 nsctotal.com.br##.sociallink
 colunadofla.com##.socials-counter
+uol.com.br##.solar-header-columnist-socialmedia-content
 cmjornal.pt##.subscrever_whatsapp
 gizmodo.uol.com.br##.sup-share-block__position
 gizmodo.uol.com.br##.sup-social
@@ -781,6 +812,7 @@ tecmundo.com.br##.tec--share__container
 tnh1.com.br##.tnh1-botao
 tnh1.com.br##.tnh1-videos-single__share
 cnnbrasil.com.br##.top__share
+radar.news##.widget-social-b
 nerdrecomenda.com.br##.widget_nr-socials-widget
 sapo.pt##.wp-block-newsplex-social-share
 sapo.pt##.wp-block-social-icons
@@ -906,11 +938,15 @@ excelsior.com.mx###social-top-node
 europapress.es###subnavegacionFixed
 horoscoponegro.com###text-23
 acento.com.do###verticalShare
+ynetespanol.com##.ArticleBottomShareComponent
+ynetespanol.com##.ArticleHeaderShareComponent
 bluradio.com,caracoltv.com##.ArticlePage-google-news
+ynetespanol.com##.ArticleSideShareComponent
 deportv.gov.ar##.BarraRedesNot
 revistacromos.com.co##.Button_google
 elespectador.com##.Button_googleAlert
 elespectador.com##.Button_whatsapp
+caracoltv.com##.GoogleNewsProvider
 adn40.mx##.ListSiguenos-SocialStrip
 ccma.cat##.M-compartir
 elpais.com.uy##.Page-actions-wrapper
@@ -919,6 +955,7 @@ notimex.gob.mx##.RedesFlotante
 revistacromos.com.co##.Social
 elpais.com.uy##.SocialLink
 revistacromos.com.co##.SocialMedia
+caracoltv.com##.WhatsappChannel
 canalnet.tv##._main-footer-socials
 canalnet.tv##._main-header-socials__permalink
 la-razon.com##.action-buttons
@@ -969,6 +1006,7 @@ infobae.com##.d23-button-share
 neomotor.epe.es##.detail_rrss
 benditofutbol.com,ultimasnoticias.ec##.div-rating
 rpdrlatino.com##.dt_social_single
+silicon.es##.entry-social-v3
 universo.cl##.entry__social
 canalarte1.uol.com.br##.fab
 starmedia.com##.fbk
@@ -1035,6 +1073,7 @@ cadenaser.com,cronicabalear.es,deia.eus,diaridegirona.cat,diariocordoba.com,diar
 aurora-israel.co.il##.rrss-link
 elcomercio.pe##.s-buttons
 betano.com##.sb-footer__notes__socials
+infobae.com##.second-saved-buttons
 elpais.com.uy##.section-rrss-wrapper
 cnnespanol.cnn.com##.section__social
 as.com##.sh-bar
@@ -1044,6 +1083,7 @@ eltiempo.com,expreso.ec,extra.ec##.share-options
 portafolio.co##.share-redes
 cnnespanol.cnn.com##.share__radios
 nupcias.mx##.share_alt
+infobae.com##.sharebar-buttons-container
 vidasana.sv##.sharedButtons
 eltiempo.com##.sharrre
 expansion.com##.siguenos
@@ -1091,6 +1131,7 @@ sportbibeln.se##.wsfb-wrapper
 !
 cosmopolitanturkiye.com,harpersbazaar.com.tr,samdan.com.tr##.gl-btn
 cosmopolitanturkiye.com,harpersbazaar.com.tr,samdan.com.tr##.gl-likes
+haberler.com##.googleNews
 diyanet.tv##.lobibox-notify-wrapper
 diyanet.tv##.navbar-sosyal
 ahaber.com.tr,aspor.com.tr##.pageTools
@@ -1101,3 +1142,4 @@ bigpara.hurriyet.com.tr##.socialIcons
 trthaber.com##.son
 haberinadresi.com,minika.com.tr##.sosyal
 diyanet.tv##.sosyal-alt-ust
+cumhuriyet.com.tr##.sosyal-medya

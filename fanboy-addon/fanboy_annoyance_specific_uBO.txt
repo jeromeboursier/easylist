@@ -121,10 +121,6 @@ e360.yale.edu##body,html:style(overflow: auto !important; position: initial !imp
 ! valuewalk.com 
 valuewalk.com##.mfp-ready
 valuewalk.com##body,html:style(overflow: auto !important; position: initial !important;)
-! insidethegames.biz
-insidethegames.biz###contribute-modal
-insidethegames.biz##.modal-backdrop
-insidethegames.biz##body,html:style(overflow: auto !important; position: initial !important;)
 ! themoscowtimes.com
 themoscowtimes.com##.contribute-modal
 themoscowtimes.com##.contribute-bar
@@ -191,8 +187,10 @@ plough.com##.article-paywall
 plough.com##+js(remove-cookie, ArticlePaywallList)
 ! startribune.com (login/reg check)
 startribune.com##+js(remove-cookie, client_id)
+! accuradio.com (login nag)
+accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 ! Mouse out nags
-ksdk.com,whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
+newscentermaine.com,5newsonline.com,fox61.com,newscentermaine.com,wtol.com,wiz.io,winnipegfreepress.com,khou.com,abc10.com,12news.com,ksdk.com,whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
 ! t-nation.com 
 t-nation.com##.toggle_lb_scrolling_mobile
 t-nation.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)
@@ -200,6 +198,10 @@ t-nation.com##body:style(position: static !important; overflow: auto !important;
 banistmo.com##+js(ra, oncontextmenu|onselectstart|ondragstart|oncopy|oncut|onpaste|onbeforecopy)
 ! https://github.com/uBlockOrigin/uAssets/issues/20636
 fantasyfootballhub.co.uk##+js(set-session-storage-item, modalViewed, true)
+! my.dhlparcel.nl (login nag)
+my.dhlparcel.nl#?#.MuiPaper-root.MuiPaper-elevation:-abp-contains(Create your own My DHL account)
+! https://github.com/uBlockOrigin/uAssets/issues/24400 Donate spam
+gadgetizedpanda.com##+js(nostif, isOpen)
 ! brainly.co.id
 brainly.co.id##.js-react-registration-toplayer
 brainly.co.id##body.sg-dialog-no-scroll:style(overflow: auto !important; position: static !important;)
@@ -207,12 +209,17 @@ brainly.co.id##body.sg-dialog-no-scroll:style(overflow: auto !important; positio
 analyticsvidhya.com##+js(nostif, loginModal)
 ! https://github.com/uBlockOrigin/uAssets/issues/22323 (login nag)
 quillbot.com##+js(set-local-storage-item, mode-quills, $remove$)
+! science.org (login/reg nag)
+science.org##+js(cookie-remover, MAID)
 ! csmonitor.com
 csmonitor.com##.stickyMessenger-cta
 csmonitor.com##+js(set-local-storage-item, csm_unique_stories, $remove$)
 ! deepl.com (login nag and app popup)
 deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
+! https://github.com/uBlockOrigin/uAssets/issues/24709
+yoreparo.com##.cta-bajo-pregunta + div[class^="div-block"]
+yoreparo.com##.post.blur:style(filter: none !important;)
 ! https://github.com/uBlockOrigin/uAssets/pull/20135
 github.com##button[data-testid="copilot-popover-button"]
 ! watchsomuchproxy.com

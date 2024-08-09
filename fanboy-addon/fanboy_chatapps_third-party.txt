@@ -17,17 +17,22 @@
 ##yardi-widget-craigslist
 ! Generic Blocks
 /creame-whatsapp-me/public/js/joinchat.min.js
+/wp-content/plugins/click-to-chat-for-whatsapp/*
 ://webim.*/button.js
 ://webim.*/button.php
 ! Specific Blocks
+hp.com###chatbotToronto
 docs.aws.amazon.com###floating-experience-feature-tour-popover
 docs.aws.amazon.com###view-__module-context__-_amzn_conversational-experience-module__tandalone-0
+||today.com/oli/
 ! Third-party chat
+||247-inc.net^$third-party
 ||24nettbutikk.chat^$third-party
 ||3cx.com/livechat/
 ||3cx.uk^$third-party
 ||acquire.io^$third-party
 ||alive5.com^$third-party
+||alo-tech.com^$third-party
 ||apex.live^$third-party
 ||api.botsonic.ai^$third-party
 ||api.visitor.chat^$third-party
@@ -48,6 +53,7 @@ docs.aws.amazon.com###view-__module-context__-_amzn_conversational-experience-mo
 ||callpage.io^$third-party
 ||carchat24.com^$third-party
 ||carrotquest.io^$third-party
+||cbot.ai^$third-party
 ||cdn.asksuite.com/infochat.js
 ||cdn.shopify.com/extensions/*/assets/inbox-chat-loader.js
 ||chat-widget.hiverhq.com^
@@ -76,7 +82,7 @@ docs.aws.amazon.com###view-__module-context__-_amzn_conversational-experience-mo
 ||crall.io^$third-party
 ||crisp.chat^$~image,third-party
 ||daktela.com^$third-party
-||driftt.com^$third-party
+||driftt.com^$third-party,domain=~paloaltonetworks.com
 ||echatsys.com^$third-party
 ||embed.simplifeye.co^$third-party
 ||embed.typeform.com/next/embed.js$script,domain=vitbikes.de
@@ -144,6 +150,7 @@ docs.aws.amazon.com###view-__module-context__-_amzn_conversational-experience-mo
 ||raychat.io^$third-party
 ||readyplanet.com^$third-party
 ||reamaze.com^$third-party
+||replain.cc^$third-party
 ||richpanel.com^$third-party
 ||salesforceliveagent.com^$third-party
 ||salesiq.zoho.com^$third-party

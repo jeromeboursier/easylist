@@ -10,6 +10,7 @@
 ||3gl.net^
 ||4251.tech^
 ||44.228.85.26^
+||46rtpw.ru^
 ||a1webstrategy.com^
 ||a8723.com^
 ||aaxwall.com^
@@ -35,11 +36,13 @@
 ||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
+||apharponloun.com^
 ||apxl.io^
 ||as3.io^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
+||b3mxnuvcer.com^
 ||bfmio.com^
 ||bidgx.com^
 ||bidswitch.net^
@@ -54,7 +57,9 @@
 ||bringmethehats.com^
 ||briskeagle.io^
 ||briskpelican.io^
+||broadstreet.ai^
 ||brsrvr.com^
+||brwsrfrm.com^
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
@@ -88,6 +93,7 @@
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||dadalytics.it^
 ||dataofpages.com^
+||datas3ntinel.com^
 ||demdex.net^
 ||digi-ping.com^
 ||directavenue.tech^
@@ -96,6 +102,7 @@
 ||dkotrack.com^
 ||dlxpix.net^
 ||dm-event.net^
+||dmepyodjotcuks.com^
 ||dmpxs.com^
 ||doublestat.info^
 ||dspx.tv^
@@ -109,6 +116,7 @@
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
+||enterombacerick.com^
 ||enthusiastgaming.net^
 ||envato.market^
 ||epsilondelta.co^
@@ -126,6 +134,7 @@
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
+||featuregates.org^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fn-pz.com^
@@ -167,6 +176,7 @@
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
+||godiciardstia.com^
 ||googleoptimize.com^
 ||googletagmanager.com^
 ||gw-dv.vip^
@@ -197,6 +207,7 @@
 ||intellimizeio.com^
 ||irs01.com^
 ||jams.wiki^
+||jazzyzest.cfd^
 ||jcpclick.com^
 ||jubbie.de^
 ||k5a.io^
@@ -218,15 +229,17 @@
 ||lyfnh.io^
 ||maggieeatstheangel.com^
 ||mapixl.com^
+||markadver.com^
 ||matheranalytics.com^
 ||mathilde-ads.com^
 ||maxepv.com^
 ||mb-tracking.com^
+||mbmgivexdvpajr.com^
 ||mcangelus.com^
 ||mdhv.io^
 ||mdstats.info^
 ||mediamathrdrt.com^
-||mgln.ai^
+||michiganrobotflower.com^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
 ||mitour.de^
@@ -261,6 +274,7 @@
 ||opti-digital.com^
 ||opticksprotection.com^
 ||optistats.ovh^
+||orhdev.com^
 ||ostrichesica.com^
 ||p2r14.com^
 ||p7cloud.net^
@@ -282,8 +296,11 @@
 ||pzapi-ij.com^
 ||pzapi-kg.com^
 ||pzimff.com^
+||q0losid.com^
+||q20jqurls0y7gk8.info^
 ||quantserve.com^
 ||quickkoala.io^
+||quickpcfixer.click^
 ||r42tag.com^
 ||raac33.net^
 ||rapidpanda.io^
@@ -317,6 +334,7 @@
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||sprtnd.com^
 ||srmdata-eur.com^
 ||ssevt.com^
 ||stack-sonar.com^
@@ -327,11 +345,13 @@
 ||sturton-lation.com^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
+||sy57d8wi.com^
 ||t13.io^
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
 ||techpump.com^
+||tepatonol.com^
 ||test.vast^
 ||testingmetriksbre.ru^
 ||thatmonkeybites3.com^
@@ -362,11 +382,13 @@
 ||ustat.info^
 ||venture-365-inspired.com^
 ||venusrevival.com^
+||veozn3f.com^
 ||vfghe.com^
 ||vfgte.com^
 ||videocdnmetrika.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
+||vmzqqmlpwwmazjnio.com^
 ||vpdcp.com^
 ||vstats.me^
 ||wct-2.com^

@@ -1401,6 +1401,7 @@
 ###caseys-cookie-modal
 ###caspian_cookiebar
 ###catapult-cookie-bar
+###cb-cookie-banner
 ###cb-cookie-holder
 ###cb-cookie_consent
 ###cb_cookie_policy_default
@@ -2325,7 +2326,6 @@
 ###cookie-pnl
 ###cookie-police
 ###cookie-policies
-###cookie-policy
 ###cookie-policy-accept-bar
 ###cookie-policy-agreement
 ###cookie-policy-alert
@@ -5669,6 +5669,7 @@
 ###google_analytics_hinweis
 ###gp-cookie-agreements
 ###gpCookie
+###gpc-lgpd
 ###gpdr:not(body):not(html)
 ###gpdrBannerAside
 ###gpe-cookies-warn
@@ -6857,7 +6858,6 @@
 ###panCookieContainer
 ###panCookieRequest
 ###pan_cookies
-###pandectes-banner
 ###panel-cookie
 ###panel-cookie-usage
 ###panel-cookies
@@ -10938,7 +10938,6 @@
 ##.cookie-wall-wrapper
 ##.cookie-warn-modal
 ##.cookie-warn-msg
-##.cookie-warning
 ##.cookie-warning-banner-view
 ##.cookie-warning-bar
 ##.cookie-warning-container
@@ -12450,7 +12449,6 @@
 ##.cp-curtain-container
 ##.cp-info-bar-container
 ##.cp-module-info_bar
-##.cp-popup
 ##.cp-popup-overlay
 ##.cp-slider-popup
 ##.cp1CookieBanner
@@ -15616,7 +15614,6 @@
 ##.showed-cookie-notice
 ##.showed.cookies
 ##.shrm-gdpr
-##.sibbo-layout
 ##.sig-cookie-banner__container
 ##.signatu-consent
 ##.siko-cookie-disclaimer
@@ -16068,7 +16065,6 @@
 ##.uk-cookie-banner
 ##.uk-cookies
 ##.uk-first-column.uk-alert
-##.uk-flex-center.uk-grid-collapse
 ##.uk-notification-bottom-center
 ##.uk-notification-bottom-left
 ##.uk-notify-message-info
@@ -16673,7 +16669,6 @@
 ##div[data-selector="container@cookiebar"]
 ##div[data-selen-group="cookies-bar"]
 ##div[data-selenium="CookieBanner"]
-##div[data-storage-item^="t886cookiename_"]
 ##div[data-test-sell-cookie-banner]
 ##div[data-test="cookie-policy-banner"]
 ##div[data-testid="cookie-disclaimer"]
@@ -16754,7 +16749,6 @@
 ##sell-cookie-banner
 ##shb-cookie-accept
 ##shb-cookie-consent
-##sibbo-cmp-layout
 ##sj-cookie-banner
 ##son-cookie-consent
 ##staedtler-cookie-banner
@@ -17014,6 +17008,7 @@
 ##div.cookie-show
 ##div.cookie-visible
 ##div.cookie-warn
+##div.cookie-warning
 ##div.cookie-wrapper
 ##div.cookieBackgaround
 ##div.cookieBanner
@@ -17137,7 +17132,6 @@
 ##div.privacy-modal
 ##div.privacy-module
 ##div.privacy-note
-##div.privacy-notice
 ##div.privacy-overlay
 ##div.privacy-police
 ##div.privacy-popup-container
@@ -17290,7 +17284,7 @@
 ##body.sliding-popup-processed > #sliding-popup
 ! zoover
 ##.docked-bottom.info-bar
-! columbiasportswear (various internation)
+! columbiasportswear (various international)
 ##header > #notify-bar
 ! Ebay European Coookies
 ###gh-gb

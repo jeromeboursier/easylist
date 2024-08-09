@@ -163,6 +163,7 @@
 ||manychat.com^$third-party
 ||maven.io^*/widget.js$third-party
 ||mg2connext.com^$third-party
+||mightycause.com^$third-party
 ||misosoup.io^$third-party
 ||mixi.media^$third-party
 ||mobj.space/js/appsdiscover/$third-party
@@ -203,7 +204,7 @@
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
 ||placehold.it^$third-party
-||placeholder.com^$third-party
+||placeholder.com^$third-party,domain=~astrobin.com
 ||platform.loyaltylion.com^
 ||plaxo.com^$third-party
 ||player.anyclip.com^$script,third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~ksat.com|~news4jax.com|~wsls.com
@@ -277,6 +278,7 @@
 ||socialvibe.com^$third-party
 ||sodahead.com^$third-party
 ||squarelovin.com^$third-party
+||stanforduniversity.qualtrics.com^$third-party
 ||statictapcdn-a.akamaihd.net^$third-party
 ||storystack.com^$third-party
 ||streamspread.com^$third-party
@@ -345,7 +347,6 @@
 ||wishpond.com^$third-party,domain=~markanthonywineandspirits.ca
 ||worldgravity.com^$third-party
 ||wp.com/www.feedburner.com/fb/$image
-||ws.audioscrobbler.com^$third-party,domain=~play.google.com|~spotify.com
 ||xhamsterlive.com/api/external/$third-party
 ||yimg.com/uq/syndication/
 ||yimg.com^*/GoldenGate.
@@ -402,6 +403,7 @@
 ||formilla.com/remoteAssets/media/
 ||fxcity.pl/images/mp4/$media
 ||goftino.com/static/assets/$media
+||gofundme.com/*/widget/$subdocument,third-party
 ||gubagoo.io/v4/media/
 ||helpscout.net/static/ui-sounds/
 ||intelliticks.com/prod/common/$media
@@ -446,11 +448,6 @@
 ||zohocdn.com/salesiq/*/sound/
 ||zopim.com/widget/sounds/
 ||zyratalk.com/contractorschatbot/$media
-! Taboola
-||taboola.com^$third-party
-||taboolasyndication.com^$third-party
-! Outbrain servers
-||outbrain.com^$third-party
 ! Embedded video Annoyances
 ||player.gliacloud.com^$third-party
 ||sendtonews.com/player/sidebar.php?$third-party

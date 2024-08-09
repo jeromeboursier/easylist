@@ -13,7 +13,6 @@
 ||204st.us^$third-party
 ||206solutions.com^$third-party
 ||247-inc.com^$third-party
-||247-inc.net^$third-party
 ||247ilabs.com^$third-party
 ||24counter.com^$third-party
 ||24log.com^$third-party
@@ -607,6 +606,7 @@
 ||defacto-analytics.net^$third-party
 ||dejavu.mlapps.com^$third-party
 ||demandbase.com^$third-party
+||demandscience.com^$third-party
 ||departapp.com^$third-party
 ||deqwas.net^$third-party
 ||devatics.com^$third-party
@@ -877,7 +877,6 @@
 ||geobytes.com^$third-party
 ||geoip-db.com^$third-party
 ||geoiplookup.io^$third-party
-||geojs.io^$third-party
 ||geolid.com^$third-party
 ||geolocation-db.com^$third-party
 ||geoplugin.net^$third-party
@@ -1002,6 +1001,7 @@
 ||hotlog.ru^$third-party
 ||hscta.net^$third-party
 ||hubvisor.io^$third-party
+||hum.works^$third-party
 ||humanclick.com^$third-party
 ||humanpresence.app^$third-party
 ||hunt-leads.com^$third-party
@@ -1342,6 +1342,7 @@
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
 ||mezzobit.com^$third-party
+||mgln.ai^$third-party
 ||miadates.com^$third-party
 ||mialbj6.com^$third-party
 ||micpn.com^$script,third-party
@@ -1493,7 +1494,6 @@
 ||ogt.jp^$third-party
 ||ohayoo.io^$third-party
 ||ohmystats.com^$third-party
-||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
 ||ometria.com^$third-party
@@ -1605,6 +1605,7 @@
 ||pjtra.com^$third-party
 ||placemypixel.com^$third-party
 ||platformpanda.com^$third-party
+||plausible-analytics.xyz^$third-party
 ||plausible.avris.it^$third-party
 ||plausible.io^$third-party
 ||plavxml.com^$third-party
@@ -1620,6 +1621,7 @@
 ||pntrac.com^$third-party
 ||pntrs.com^$third-party
 ||podcorn.com^$third-party
+||podscribe.com^$third-party
 ||poeticmetric.com^$third-party
 ||pointillist.com^$third-party
 ||pointmediatracker.com^$third-party
@@ -1823,6 +1825,7 @@
 ||rudderlabs.com^$third-party
 ||rumanalytics.com^$third-party
 ||rumpelstiltskinhead.com^$third-party
+||runconverge.com^$third-party
 ||rztrkr.com^$third-party
 ||s3s-main.net^$third-party
 ||safe-click.net^$third-party
@@ -1956,6 +1959,7 @@
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
+||smartico.ai^$third-party
 ||smartlook.com^$third-party
 ||smartocto.com^$third-party
 ||smartology.co^$third-party
@@ -1997,10 +2001,12 @@
 ||speedcurve.com^$third-party
 ||speedhq.net^$third-party
 ||speetals.com^$third-party
+||splash-screen.net^$third-party
 ||splitbee.io^$third-party
 ||splittag.com^$third-party
 ||splyt.com^$third-party
 ||sponsored.com^$third-party
+||sprig.com^$third-party
 ||spring.de^$third-party
 ||springmetrics.com^$third-party
 ||sptag.com^$third-party
@@ -2067,11 +2073,13 @@
 ||submitnet.net^$third-party
 ||successfultogether.co.uk^$third-party
 ||sugodeku.com^$third-party
+||sumatra.ai^$third-party
 ||sumo.com^$third-party
 ||sumologic.com^$third-party,domain=~sumologic.net
 ||sumome.com^$third-party
 ||sundaysky.com^$third-party
 ||supercounters.com^$third-party
+||superfiliate.com^$third-party
 ||superspeedapp.com^$third-party
 ||superstats.com^$third-party
 ||surfcounters.com^$third-party
@@ -2272,6 +2280,7 @@
 ||userreplay.net^$third-party
 ||userreport.com^$third-party
 ||users-api.com^$third-party
+||usertracks.live^$third-party
 ||userzoom.com^$third-party
 ||usesfathom.com^$third-party
 ||usuarios-online.com^$third-party

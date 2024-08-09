@@ -23,6 +23,7 @@ brack.ch###b2c-consent
 ingelheim.de###banny-banner-outer
 muehlenapotheken.de,stellenvermittlung-nordkirche.de###bg-datenschutz
 xinedome.de###block-consent-block
+dorda.at###block-cookiesblock
 dreid.com###boxHolder
 tsuche.com###c-c
 afilio.de###c-overlay
@@ -175,6 +176,7 @@ urteile-gesetze.de###stickyFooter
 soeren-hentzschel.at###storage-notice
 eventfrog.ch###tf-modal-container
 mbt-store.com###tfm_dsgvo_disclaimer_container
+swz.it###tincx-cookie-notice
 autohauskenner.de###tools_consent_panel
 otto-office.com###top-notification_accept-machmichweg-guidelines
 vorablesen.de###tos_pp_update
@@ -283,6 +285,7 @@ webcountdown.de##.cooBubble
 der-ersatzteile-profi.de##.coockie_poliy
 crossnative.com##.cookie-consent_overlay__SIXMM
 oeh-wu.at##.cookie-container
+tuhh.de##.cookie-info
 matec.de,myconvotherm.de##.cookie-inquiry-wrapper
 idw.de##.cookie-manager__overlay
 moebel-rieger.de##.cookie-permission-background
@@ -405,6 +408,7 @@ aucon-steuerberatung.de,iaa.de##.mmcm-container
 arbrikadrex.de,businesshemden.com##.mnd-cookie-modal
 hotel-metropol.at##.mod-cr
 euclaim.de##.modal--background
+dorda.at##.modal-backdrop
 koelner-philharmonie.de,konzerthaus.de##.modal-mask
 bmfgroup.de,lagerbox.com##.modal-wrapper
 clark.de,goclark.at##.modal__overlay
@@ -623,6 +627,7 @@ carrefour.pf##.bBXpsZ
 starofservice.com##.bLORfk
 plateforme.freelance.com##.banner-container
 cv.fr##.bg-gray-900.p-5
+guyane-amazonie.fr##.block-fs-cookie
 axa.ci##.block_cookies
 doudoune.style##.brave_popup
 mediamarkt.be##.cYLSgE
@@ -714,6 +719,7 @@ zennio.fr##.z-50
 catalogue.bm-grenoble.fr##[style="position: fixed; z-index: 10;"]
 nouvelair.com##[style^="position: fixed; left: 0px; top: 0px;"]
 solidaris-wallonie.be##app-pop-up-tracking
+laprovence.com##div[class^="ConsentBanner_"]
 wizbii.com##div[class^="gdpr_consent_"]
 domitys.fr##div[style*="background-color: rgba(0, 0, 0, 0.5);"]
 mathematiques-lycee.com##div[style^="position: fixed; bottom: 0;"]
@@ -779,7 +785,7 @@ tennis24.bg###private_info
 sofiacomputers.net###uslpolzvane
 farmhopping.com##.AcceptCondition
 tv.yettel.bg##.Gdpr_layout__w-Fse
-edmarkinternational.bg,ehype.bg,ledivin.bg,visvitalisbg.com,zora.bg##.bottom-freezed-bar
+edmarkinternational.bg,ehype.bg,ledivin.bg,nedelya.com,visvitalisbg.com,zora.bg##.bottom-freezed-bar
 bittel.bg,carmen.bg##.c-website-notification
 formabania.bg##.header-notice
 praktiker.bg##.info-message
@@ -1111,6 +1117,7 @@ menzis.nl##.cookiewall
 omroepflevoland.nl##.cookiewall-banner-container
 drost.nl,eindesamenwonen.nl##.cookiewall-modal
 hollandgold.nl##.coookies
+idfa.nl##.css-krtj5s
 vakantieveilingen.be,vakantieveilingen.nl##.css-uuqc7b
 coppelaer.nl##.ct-modal
 iservoetbalvanavond.nl##.cuJDex
@@ -1179,6 +1186,7 @@ camperclubskeller.nl##.total-plus-privacy-policy
 nrc.nl##.user-confirmation-screen
 folders.nl##.v-bottom-sheet
 bolderman.nl,effeweg.nl##.via-modal--consent
+easyschrank.ch##.visio-analytics-cookie-notice
 bongerscoaching.nl##.w3-animate-opacity > .w3-container
 bresculinair.nl,energiedirect.nl##.wall
 gezondheidswinkel.nl##.z-50.bottom-2\.5
@@ -1221,6 +1229,7 @@ virtuaaltuur.tlu.ee##[style^="bottom: 0px; height: 50px;"]
 sportamore.com###__next > div.MuiBox-root:last-of-type
 viddla.fi###cookie-info-wrap
 ecoprint.info,karkkikuja.fi,konejatarvike.com###cp_popup
+eco-toimistotarvikkeet.fi,kassakaappi.net,proficient.fi,xn--tytuoli-b1a.fi###evasteet
 virtasenkauppa.fi###gtmCookieBanner
 kiinteistomaailma.fi###km-ccw
 napsu.fi###napsu_cc
@@ -1301,7 +1310,7 @@ lartigiano.gr###CookiesSection
 traderetail.gr###NMCookie_container
 restiasuites.gr###advert-once
 stigmap.gr###btm_terms
-whatsup.gr###ck_cookies
+frogmobile.gr,whatsup.gr###ck_cookies
 eudoxus.gr###consentPlaceholder
 dod.gr###cookies_component
 kteohellas.gr###cookiesettings-dialog
@@ -1320,6 +1329,7 @@ norlib.gr##.alertbanner
 voi-noi.gr##.bottombar
 dimotisnews.gr##.cc_obx
 electroholic.gr##.fix-bottom
+neurocenter.gr##.gdprpop
 dustandcream.gr##.modals-wrapper
 lazoptics.gr##.new-cookie-supercontainer
 ntng.gr##.prvmodal
@@ -1396,13 +1406,17 @@ laptopsystem.hu##div[style^="position:fixed; bottom:0;"]
 !
 ! ---------- Icelandic ----------
 !
+straeto.is##.CookieNotice_wrapper__m0uRn
 laugavegshlaup.is,rmi.is##.Gdpr_gdpr__3CNbq
-stundin.is##.bottom-banner
+arnastofnun.is##._sam_ga_info
+heimildin.is,stundin.is##.bottom-banner
 visir.is##.bottom-disclaimer
+cb.is##.ch2
 crunch.is##.cooBox
 vodafone.is##.dismissable-terms
 landsbankinn.is##.e1vl7zat10
 sensa.is##.elementor-widget-icon-box.elementor-widget
+landsbankinn.is##.envtqys10
 posturinn.is##.ewvKFq
 ruv.is##.h-40
 lesbian.is##.header-message
@@ -1416,6 +1430,7 @@ torshavn.fo##.sucd-banner
 !
 ! ---------- Indian ----------
 !
+gujaratsamachar.com##.CookiesModel
 sbilife.co.in##.header-text-contener
 dinamalar.com##.quickslide
 jiosaavn.com##.site-message-container
@@ -1652,6 +1667,7 @@ camp-fire.jp##.cookie-policy-agreement-notification
 his-mobile.com##.cookieagree
 kani-honke.co.jp##.cookiediag
 octoparse.jp##.cookies_cookies__dWLfO
+tjapan.jp##.fixed_banner
 imobie.jp##.fixedbot
 museum.seiko.co.jp##.footer_disclaimer
 adidas.jp##.footersticky
@@ -2077,6 +2093,7 @@ wszystko.pl##wpl-cookie-popup
 !
 mercatoemcasa.com.br###COOKIEBAR
 pinkluna.com.br###LGPD-StartEcom
+asf.com.pt###asfCookiesBar
 portugalglobal.pt###barramensagem
 assertivasolucoes.com.br###ck-container
 cliper.pt###cook
@@ -2112,6 +2129,7 @@ rtp.pt###rtpgeralcookiecontent
 tjmg.jus.br###termo-uso
 imashop.com.br,toqueacampainha.com.br###vtex-lgpd-cookie
 xalingo.com.br###wrng-agrmnt
+tvt.org.br##.-policy
 fiat.com.br##.CookieHolder_container__23g0s
 morana.com.br##.DykGo.sc-crzoAE
 magazineluiza.com.br##.FSeli
@@ -2127,6 +2145,7 @@ hugocursos.com.br,jogatina.com##.alerta
 curitiba.pr.gov.br,inaciomartins.pr.gov.br##.alertaCookies
 dimed.com.br##.antd-pro-components-cookie-pop-up-index-show_popup
 try.com.br##.bZEgfH
+quizur.com##.backdrop-blur-sm
 consul.pt##.background-overlay
 unopar.com.br##.banner-fixed-box
 jornaldeitapetininga.com.br,oanhanguera.com.br##.banner_rodape_informando_cookies
@@ -2164,6 +2183,7 @@ jmonline.com.br##.dKgVKJ
 promobit.com.br##.e85akae0
 privalia.com##.fixedBar
 hotelgolfmarvimeiro.pt##.fixedblock
+quizur.com##.flex.flex-col.md\:flex-row.justify-center.md\:justify-start.items-center.gap-\[10px\].md\:gap-\[14px\].max-w-\[760px\].py-5.px-4.w-full.md\:px-5.md\:py-\[14px\].mb-\[100px\].bg-white.rounded-xl.border-b-4.boorder-\[\#EAECF0\]
 bondfaro.com.br,quebarato.com.br##.floatingBarPrivacy
 posthaus.com.br##.foPcpY
 porcel.pt##.footer
@@ -2175,6 +2195,7 @@ compass.jeep.com.br##.gfUNpP
 buson.com.br##.gv-cookie-lgpd-alert-container
 discoverybrasil.com##.hCHxpg
 gazin.com.br##.hZeYRd
+bahianoticias.com.br##.hrwwcj
 chrysler.com.br,citroen.com.br,dodge.com.br,fiat.com.br,jeep.com.br,ram.com.br##.hub-info-bar-component
 gympass.com##.iTHgOb
 sioslife.com##.index-module--CookiesBanner--2ep-D
@@ -2212,6 +2233,7 @@ fazobetai.com##.one-button-cookies-popup
 band.uol.com.br##.opt-in
 logo.pt,tranquilidade.pt##.overlay-wrapper
 s1live.com##.p-3
+atribuna.com.br##.pds-c-PJLV-innpEU-css
 brasiltec.ind.br##.policies-accept
 timing.pt##.policy
 clickbus.com.br##.policy-container
@@ -2318,6 +2340,7 @@ antiplagiat.ru###policyConfirmation
 alter-science.info,alterexit.info,viziya.info###pop
 calltouch.ru###poppup-food
 sibur.ru###privacyPolicy
+dzen.ru###recommend-tech-snackbar
 rgs.ru###rgs-main-context-bar
 keysight-technologies.ru###uni-notification
 incom.ru###use_cookies_message-block
@@ -2338,6 +2361,7 @@ etm.ru##.MuiAlert-standardSuccess
 maxi-retail.ru##.NotificationCookie_cookie__1jdBx
 citilink.ru##.PersonalDataConfirm
 mts.ru##.ToastRoot_wrapper__PFLGm
+hoff.ru##.Toastify__toast-container
 detmir.ru##.X
 blablacar.ru##.ZueeA
 ratengoods.com##._1QGn
@@ -2393,6 +2417,7 @@ rusnano.com##.cookie__in
 gostest.com##.cookie__open
 afishainspring.ru##.cookie__q6bNp
 lays.ru##.cookie_inner_1vkWj
+fnkc-fmba.ru##.cookie_notification__wrap
 rzd-partner.ru##.cookie_outer_div
 job.mts.ru##.cookies-agreement-alert
 syrovarnya.com##.cookiesMessage_cookiesmessage__jAFno
@@ -2495,6 +2520,7 @@ ctc.ru##[class^="AcceptCookie_"]
 connectgas.ru##[class^="cookieAgreement"]
 4game.com##[class^="fcw-wrap-"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
+detmir.ru##[data-testid="cookieNotificationText"]
 sdamgia.ru##[style^="text-align: left; position: fixed;"]
 fastvps.ru##app-cookies-accept
 rabota.sber.ru##div[class*="styled__CookieWrapper-"]
@@ -2503,6 +2529,8 @@ novayagazeta.eu##div[class^="CookiesInformer_"]
 stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 asna.ru##div[class^="modalCookies_"]
+russianfield.com##div[data-storage-item^="t886cookiename_"]
+knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 litres.ru##div[data-test-id="cookieAcceptPopup"]
 7dach.ru##div[style^="background-color:#fff3cd; color: #856404;"]
 chaynikam.info##div[style^="position: fixed; bottom: 0px;"]
@@ -2794,6 +2822,7 @@ kontorsmaterial.se###cbckchangeholderFirst
 anmalarbetsskada.se###coockieinfo
 vwgroup.se###cookiemgmt
 risskov.se###cookiemodal
+citytrafikskola.com,houseofdesign.nu,husbyggenvaster.se,incaplast.com,pinevision.se,skyltpoolen.se###ep-cookie-concent
 unionen.se###eu-cookie-compliance-overlay
 greencounsel.se###getCookieConsentDialog
 apricon.se###glass
@@ -2937,11 +2966,12 @@ oz.av.tr##.Legal
 columbia.com.tr##.MuiCollapse-wrapperInner
 apigo.com.tr##.ant-notification
 ikonambalaj.com.tr##.bottom-center
-afyonhaberturk.com,agesahayatemeklilik.com.tr,avivasa.com.tr,aydinyeniufuk.com.tr,balikesirartihaber.com,blokhaber.com,bomba15.com,denizli20haber.com,dirilispostasi.com,eldedemokrasi.com,enpolitik.com,euromsg.com,haberimizvar.net,hedefgazetesi.com.tr,isdunyasindakadin.com,ispartamhaber.com,kahtases.com,kocaelisabah.com,mhrs.gov.tr,offtherecord.com.tr,sabancivakfi.org,seffafbelediyecilik.com,tarsusgazetesi.com,yenigolcuk.com##.cerez
+afyonhaberturk.com,agesahayatemeklilik.com.tr,avivasa.com.tr,aydinyeniufuk.com.tr,balikesirartihaber.com,blokhaber.com,bomba15.com,denizli20haber.com,dirilispostasi.com,eldedemokrasi.com,euromsg.com,haberimizvar.net,hedefgazetesi.com.tr,isdunyasindakadin.com,ispartamhaber.com,kahtases.com,kocaelisabah.com,mhrs.gov.tr,offtherecord.com.tr,sabancivakfi.org,seffafbelediyecilik.com,tarsusgazetesi.com,yenigolcuk.com##.cerez
 iys.org.tr##.cerezall
 saltur.com.tr##.cerezkullanimi
 bettilt496.com##.consent-modal
 hosting.com.tr##.contract-popup
+soneksbilgisayar.com##.cookie-agreement-module
 hepsijet.com##.cookie-policy_cookiePolicy__9xbaz
 pinarsu.com.tr##.cookieContent
 beinsports.com.tr##.cookie_cookie__3NG06

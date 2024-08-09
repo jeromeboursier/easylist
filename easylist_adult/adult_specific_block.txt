@@ -41,6 +41,7 @@
 ||anysex.com/*/js|
 ||anysex.com/*/script|
 ||anysex.com^$subdocument,~third-party
+||api.adultdeepfakes.cam/banners
 ||asg.faperoni.com^
 ||atube.xxx/static/js/abb.js
 ||aucdn.net^$media,domain=clgt.one
@@ -60,12 +61,12 @@
 ||bigcock.one/worker.js
 ||bigdick.tube/tpnxa/
 ||bigtitsgallery.net/qbztdpxulhkoicd.php
-||bigtitslust.com/lap70/
+||bigtitslust.com/lap70/s/s/suo.php
 ||bionestraff.pro/300x250.php
 ||bodsforthemods.com/srennab/
 ||bootyheroes.com//static/assets/img/banners/
 ||boyfriend.show/widgets/Spot
-||boyfriendtv.com/bftv/b/bftv-merch-*.mp4
+||boyfriendtv.com/bftv/b/
 ||boyfriendtv.com/bftv/www/js/*.min.js?url=
 ||boysfood.com/d5.html
 ||bravoteens.com/ta/
@@ -126,6 +127,7 @@
 ||dl.crazyporn.xxx^
 ||dl.hoes.tube^
 ||dl.love4porn.com^
+||dofap.com/banners/
 ||doseofporn.com/img/jerk.gif
 ||doseofporn.com/t63fd79f7055.js
 ||dpfantasy.org/k2s.gif
@@ -167,6 +169,7 @@
 ||fmgroupdist.com/mafanikio/$image,domain=bdsmtest.org
 ||footztube.com/b_
 ||footztube.com/f_
+||for-iwara-tools.tyamahori.com/ninjaFillter/
 ||freehqsex.com/ads/
 ||freelivesex.tv/imgs/ad/
 ||freeones.com/build/freeones/adWidget.$script
@@ -182,8 +185,10 @@
 ||fuwn782kk.alphaporno.com^
 ||galleries-pornstar.com/thumb_top/
 ||gamcore.com/ajax/abc?
+||gamcore.com/js/ipp.js
 ||gay.bingo/agent.php
 ||gay4porn.com/ai/
+||gayforfans.com^*.php|$script
 ||gaygo.tv/gtv/frms/
 ||gaystream.pw/juicy.js
 ||gaystream.pw/pemsrv.js
@@ -262,6 +267,7 @@
 ||jav-bukkake.net/images/download-bukkake.jpg
 ||javenglish.net/tcads.js
 ||javfor.tv/av/js/aapp.js
+||javgg.me/wp-content/plugins/1shortlink/js/shorten.js
 ||javguru.top/126_126.js
 ||javhub.net/av/js/aapp.js
 ||javhub.net/av/js/cpp.js
@@ -277,6 +283,7 @@
 ||justthegays.com/agent.php
 ||justthegays.com/api/spots/
 ||justthegays.com/api/users/
+||jzzo.com/_ad
 ||k2s.tv/cu.js
 ||kbjfree.com/assets/scripts/popad.js
 ||kindgirls.com/banners2/
@@ -322,6 +329,7 @@
 ||nsfwalbum.com/efds435m432.js
 ||nudepatch.net/dynbak.min.js
 ||nudepatch.net/edaea0fd3b2c.j
+||nvdst.com/adx_
 ||oi.429men.com^
 ||oj.fapnado.xxx^
 ||oldies.name/oldn/
@@ -397,7 +405,6 @@
 ||rat.xxx/sofa/
 ||rat.xxx/wwp2/
 ||realgfporn.com/js/bbbasdffdddf.php
-||redgifs.com/assets/js/goCtrl.js
 ||redtube.com^$subdocument,~third-party
 ||redtube.fm/advertisment.htm
 ||redtube.fm/lcgldrbboxj.php

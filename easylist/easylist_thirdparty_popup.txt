@@ -1,3 +1,4 @@
+||123-stream.org^$popup
 ||1wdacn.xyz^$popup
 ||1wnurc.com^$popup
 ||1x001.com^$popup
@@ -11,6 +12,7 @@
 ||adrotator.se^$popup
 ||ads.planetwin365affiliate.com^$popup,third-party
 ||adserving.unibet.com^$popup
+||affiliates.abebooks.comh^$popup,third-party
 ||affiliates.fantasticbet.com^$popup
 ||amazing-dating.com^$popup
 ||americascardroom.eu/ads/$popup,third-party
@@ -46,6 +48,7 @@
 ||dianomi.com^$popup
 ||download-adblock360.com^$popup
 ||downloadoperagx.com/ef/$popup
+||e11956.x.akamaiedge.net^$popup
 ||eatcells.com/land/$popup
 ||error-alerts.com^$popup
 ||esports1x.com^$popup
@@ -56,6 +59,7 @@
 ||firstload.com^$popup
 ||firstload.de^$popup
 ||fleshlight.com/?link=$popup
+||flirt.com/aff.php?$popup
 ||freegamezone.net^$popup
 ||fwmrm.net^$popup
 ||get-express-vpn.online^$popup
@@ -70,6 +74,7 @@
 ||go.aff.estrelabetpartners.com^$popup
 ||go.camterest.com^$popup
 ||go.thunder.partners^$popup
+||goodoffer24.com/go/$popup
 ||google.com/favicon.ico$popup
 ||greenadblocker.com^$popup
 ||hotdivines.com^$popup
@@ -105,6 +110,7 @@
 ||profitsurvey365.live^$popup
 ||promo.20bet.partners^$popup
 ||promo.pixelsee.app^$popup
+||protected-redirect.click^$popup
 ||quantumadblocker.com^$popup
 ||record.affiliatelounge.com^$popup
 ||redir.tradedoubler.com/projectr/$popup

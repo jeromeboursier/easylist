@@ -10,11 +10,10 @@
 -ad-unit.
 -ad-util.
 -ad.jpg.pagespeed.
--adbanner.
 -ads-banner.
 -ads-bottom.
 -ads-manager/$domain=~wordpress.org
--ads/assets/$domain=~web-ads.org
+-ads/assets/$script,domain=~web-ads.org
 -assets/ads.$~script
 -auto-ads-
 -banner-ad_
@@ -205,7 +204,6 @@
 /adbox.js
 /adcall?
 /adcgi?
-/adcheck.
 /adchoice.
 /adcommon?
 /adconfig.js
@@ -221,10 +219,9 @@
 /adfurikun/*$~image
 /adfx.loader.bind.js
 /adhandler/*$~subdocument
-/adhelper.js
 /adiframe|*|adtech;
-/adimage.
-/adimages.
+/adimage.$image,script,stylesheet
+/adimages.$script
 /adj.php?
 /adjs.php
 /adlayer.php
@@ -252,7 +249,6 @@
 /ads-admin.
 /ads-async.
 /ads-common.
-/ads-footer.
 /ads-front.min.js
 /ads-frontend.min.js
 /ads-home.js
@@ -272,12 +268,12 @@
 /ads/banners/*$image
 /ads/bottom.
 /ads/cbr.
+/ads/custom_ads.js
 /ads/delivery.
 /ads/footer.
 /ads/ga-audiences?
 /ads/gam_prebid-$script
 /ads/get-ads-by-zones/?zones%
-/ads/header.
 /ads/image/*$image
 /ads/images/*$image,domain=~eoffcn.com
 /ads/index.
@@ -410,7 +406,6 @@
 /adverts/*$~xmlhttprequest
 /advrotator.js
 /advrotator_banner_largo.htm
-/advscript.js
 /advtBanner.
 /adx2.
 /adz/js/adz.
@@ -483,7 +478,6 @@
 /banner_ads/*$~xmlhttprequest,domain=~clickbd.com
 /bannerad.
 /bannerad3.js
-/bannerads.
 /bannerads/*$~xmlhttprequest,domain=~coldwellbankerhomes.com
 /banners.*/go/page/*
 /banners.*/piclist?
@@ -511,6 +505,7 @@
 /cgi-bin/ads.cgi
 /click/zone?
 /click?adv=
+/clickadu300.aspx
 /cms_ads.js
 /code/https-v2.js?uid=
 /code/native.js?h=$script
@@ -524,14 +519,12 @@
 /concert_ads-$script
 /content-ads.js
 /content/ads/*$~xmlhttprequest
-/core-ads.js
 /couponAd.php
 /cpmbanners.js
 /css/ads-$stylesheet
 /css/adsense.
 /css/adv.
 /curveball/ads/*$image
-/custom_ads.js
 /data-file_123.js
 /deliverad/fc.js
 /delivery.ads.
@@ -575,6 +568,7 @@
 /external_ad?
 /external_ads.
 /fel456.js$script
+/fgh1ijKl.js
 /flashad.asp
 /flashad.js
 /flashad3.jpg
@@ -613,6 +607,7 @@
 /googleAdsManager.js
 /googleafc.js
 /googleafs.js
+/gospel2Truth.js
 /gpt.js$script,xmlhttprequest
 /gpt_ads-public.js
 /GunosyAdsSDKv2.js
@@ -720,6 +715,7 @@
 /nxst-advertising/dist/htlbid-advertising.min.js
 /oiopub-direct/js.php
 /oncc-ad.js
+/oncc-adbanner.js
 /openads.js
 /owa.MessageAdList.
 /p8network.js
@@ -729,7 +725,6 @@
 /page-peel$~xmlhttprequest
 /page/bouncy.php?
 /pagead/1p-user-list/*$image
-/pagead/ads?
 /pagead/conversion.js
 /pagead/lvz?
 /pagead/osd.
@@ -750,7 +745,6 @@
 /phpads/adx.js
 /phpadsnew/*$image,script
 /phpbb_ads/*$~xmlhttprequest
-/pioneersuspectedjury.com/*
 /pix/ads/*$image
 /pixel/puclc?
 /pixel/pure$third-party
@@ -869,6 +863,7 @@
 /script/java.php?$xmlhttprequest
 /script/jeSus.js
 /script/liB1.js
+/script/liB2.js
 /script/naN.js
 /script/native_render.js
 /script/native_server.js
@@ -1048,7 +1043,7 @@
 ://ad-api-
 ://ad1.
 ://adn.*/zone/$subdocument
-://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.listonic.com|~ads.magalu.com|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nipr.ac.jp|~ads.olx.pl|~ads.pinterest.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adv.$domain=~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~farapp.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://affiliate.$third-party
@@ -1137,7 +1132,7 @@ _gpt_ads.
 _header_ad.
 _header_ad_
 _headerad.
-_images/ad.
+_images/ad.$image
 _images/ad_
 _images/ads/
 _layerad.
