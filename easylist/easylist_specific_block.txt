@@ -716,6 +716,7 @@
 ||trucknetuk.com/phpBB2old/sponsors/
 ||truepeoplesearch.com/search/widgets?$xmlhttprequest
 ||trumparea.com/_adz/
+||truthsocial.com^*/ads^
 ||tubeoffline.com/js/hot.min.js
 ||turbobit.net/fd1/js/brinpopup.js
 ||turbobit.net/pus/
