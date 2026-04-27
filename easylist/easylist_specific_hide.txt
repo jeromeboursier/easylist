@@ -5018,6 +5018,7 @@ leaf.tv##.rightrail-display-ad
 thenationalherald.com##.rightside-add
 smartasset.com##.riklam-container
 ip.sb##.rivencloud_ads
+golfdigest.com##.river-ad-full
 flagpedia.net##.rklm
 rocket-league.com##.rlg-footer-ads-container
 rocket-league.com##.rlg-trading-ad
