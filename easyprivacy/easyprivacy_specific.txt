@@ -981,6 +981,8 @@
 ||klm.us/CWZUvc/
 ||kloth.net/images/pixel.gif
 ||knewz.com/api/event
+||knowunity.com/events^
+||knowunity.com/pixels/
 ||kobo.com/TrackClicks
 ||kohls.com/mtFndb/
 ||kohls.com/test_rum_nv?

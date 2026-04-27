@@ -401,6 +401,7 @@
 ||kitco.com/jscripts/popunders/
 ||kitz.co.uk/files/jump2/
 ||kmalgo.com/ads/
+||knowunity.com/ads/
 ||kompass.com/getAdvertisements
 ||koreatimes.co.kr/ad/
 ||kta.etherscan.com^
