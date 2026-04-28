@@ -335,7 +335,6 @@
 ||blogreaderproject.com^$third-party
 ||bluecava.com^$third-party
 ||blueconic.net^$third-party
-||bluecore.com^$third-party
 ||blueknow.com^$third-party
 ||blvdstatus.com^$third-party
 ||bm23.com^$third-party
