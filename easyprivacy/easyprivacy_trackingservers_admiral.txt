@@ -948,6 +948,7 @@
 ||internalcondition.com^
 ||internalsink.com^
 ||intricateberry.com^
+||introjava.com^
 ||inventorycache.com^$~xmlhttprequest
 ||inventtango.com^
 ||invoicetick.com^
