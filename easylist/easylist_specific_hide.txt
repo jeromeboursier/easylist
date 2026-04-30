@@ -343,6 +343,8 @@ dodi-repacks.site###block-17
 appleworld.today###block-26
 raspians.com###block-29
 raspians.com###block-31
+flyingmag.com###block-32
+flyingmag.com###block-36
 upfivedown.com###block-4
 club386.com###block-43
 club386.com###block-47
