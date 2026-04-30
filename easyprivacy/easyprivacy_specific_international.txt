@@ -2051,6 +2051,7 @@
 ||obozrevatel.com/pixel.png
 ||piccy.info/c?
 ||piccy.org.ua/c?
+||prm.ua/en/events/
 ||remp.nv.ua^
 ||sport.ua/pixel/
 ||stats.itc.ua^
