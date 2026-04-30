@@ -5339,7 +5339,7 @@ newegg.com##.sponsored-brands
 crypto.news##.sponsored-button-group
 cheknews.ca##.sponsored-by
 androidcentral.com,gamesradar.com,guitarworld.com,livescience.com,pcgamer.com,sltrib.com,space.com,techradar.com,tomsguide.com,tomshardware.com,windowscentral.com##.sponsored-card
-countrylife.co.uk,livescience.com,t3.com,womanandhome.com##.sponsored-card-centred
+countrylife.co.uk,cyclingweekly.com,livescience.com,livingetc.com,t3.com,womanandhome.com##.sponsored-card-centred
 washingtontimes.com##.sponsored-heading
 itweb.co.za##.sponsored-highlights
 breakingdefense.com##.sponsored-inline
