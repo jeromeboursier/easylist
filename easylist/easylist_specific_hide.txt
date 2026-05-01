@@ -325,6 +325,7 @@ slideshare.net###between-recs-ad-2-container
 usnews.com###bfad-slot
 solution-hub.com###bfix2
 shellshock.io###big-house-ad
+advrider.com###bigBox
 dailyregister.com,dailyrepublicannews.com###billBoardATF
 versus.com###bill_bottom
 cricketnetwork.co.uk,f1network.net,pop.inquirer.net,rugbynetwork.net,the-scientist.com,thefootballnetwork.net###billboard
