@@ -126,6 +126,7 @@
 ||bet365.com/favicon.ico$third-party
 ||betclever.com/wp-admin/admin-ajax.php?action=coupons_widget_iframe&id=$third-party
 ||bharatmatrimony.com/matrimoney/matrimoneybanners/
+||bhphoto.com/ezbanner/
 ||bidder.criteo.com^
 ||bidder.newspassid.com^
 ||bidorbuy.co.za/jsp/tradesearch/TradeFeedPreview.jsp?
