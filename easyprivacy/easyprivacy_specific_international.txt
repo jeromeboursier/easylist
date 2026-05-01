@@ -126,7 +126,6 @@
 ||plausible.motorpresse.de^
 ||playox.de/analytics/
 ||pons.com/pons-site-website-assets/lib/analytics.min.js
-||pons.com/pons-site-website-int/_astro/website-analytics.$script
 ||potsdamer-stadtplan.com/t.gif
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
