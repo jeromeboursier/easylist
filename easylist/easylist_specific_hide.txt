@@ -5358,6 +5358,7 @@ coinmarketcap.com##.sponsoredMark
 lookfantastic.com##.sponsoredProductsList
 circleid.com##.sponsoredTopicCard
 mynorthwest.com##.sponsored_block
+thenextweb.com##.sponsored_legal
 hannaford.com##.sponsored_product
 canadiantire.ca##.sponsoredproductcarousel
 meijer.com##.sponsoredproducts
