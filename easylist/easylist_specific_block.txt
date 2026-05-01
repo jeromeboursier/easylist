@@ -762,6 +762,7 @@
 ||yahoo.com/m/gemini_api/
 ||yahoo.com/pdarla/
 ||yahoo.com/sdarla/
+||yandex.com/ads/system/context.js
 ||yimg.com/aaq/benji/benji-
 ||yimg.com/rq/darla/$domain=yahoo.com
 ||ynet.co.il/gpt/
