@@ -1149,6 +1149,7 @@ rule34.xxx##[style="min-height: 135px; box-sizing: border-box;"]
 vjav.com##[style="width: 728px; height: 90px;"]
 muchohentai.com##[style="width:100%;height:250px;"]
 gelbooru.com,xozilla.com##[style^="height: 250px !important; overflow: hidden;"]
+gelbooru.com##[style^="height: 250px !important;"]
 missav.*,missav123.com,missav888.com,njavtv.com##[style^="width: 300px; height: 250px;"]
 123av.com,123av.ws,1av.to##[style^="width:300px;"]
 missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-disc
