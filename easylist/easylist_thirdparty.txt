@@ -1753,6 +1753,7 @@
 ||dp94m8xzwqsjk.cloudfront.net^
 ||dpd9yiocsyy6p.cloudfront.net^
 ||dpirwgljl6cjp.cloudfront.net^
+||dpjf9a2rbjbvp.cloudfront.net^
 ||dpjlvaveq1byu.cloudfront.net^
 ||dpsq2uzakdgqz.cloudfront.net^
 ||dpst35vkvd2u3.cloudfront.net^
