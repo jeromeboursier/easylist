@@ -98,6 +98,7 @@
 ||api.mintfunnel.co^
 ||app.clickfunnels.com^$~stylesheet
 ||app.koah.ai^
+||apps.fourthwall.app^$third-party
 ||arkadiumhosted.com/advertisement/
 ||aspencore.com/syndication/v3/partnered-content/
 ||assets.everlit.audio/assets/lib/ad_manager-
