@@ -5517,6 +5517,7 @@
 ||bookinglamentinstance.com^
 ||bookmakers.click^
 ||bookmankyloecupania.qpon^
+||bookmanstews.qpon^
 ||bookmsg.com^
 ||bookshelfcomplaint.com^
 ||booksoxsolely.com^
