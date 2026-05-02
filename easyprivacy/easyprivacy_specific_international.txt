@@ -1308,6 +1308,7 @@
 ||t.bukalapak.com^
 ||ta.tokopedia.com/promo/v1/views
 ||tokopedia.com/helios-client/client-log
+||tracker-beam.tempo.co^
 ! Italian
 /~shared/do/~/count/?$image
 ||adnkronos.com/akTracking_isf.js
