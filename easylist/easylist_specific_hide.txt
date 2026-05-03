@@ -5321,6 +5321,7 @@ salary.com##.sovrn-leaderboard
 khmertimeskh.com##.sow-slider-image
 freeonlineapps.net##.sp
 coincarp.com##.sp-down
+watchsports.to##.sp-promo-card
 freebusinessapps.net##.sp-res
 semiengineering.com##.sp_img_div
 academickids.com##.spacer150px
