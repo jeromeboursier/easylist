@@ -1581,6 +1581,7 @@ lelo.ge##.UpButton
 financemagnates.com##.a-scroll-to-top__sticky-wrapper
 getty.edu##.a-scroll-top-btn
 stacker.com##.actions-scroll-to-top
+bricklink.com##.anchor-to-top
 asiaone.com##.ant-back-top
 collectorsweekly.com##.arrow-icon
 analdin.com,reverbpress.com,ugames.tv,uinterview.com,upolitics.com,usports.org,utrips.com##.arrow-up
