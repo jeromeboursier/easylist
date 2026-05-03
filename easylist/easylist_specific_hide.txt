@@ -3800,6 +3800,7 @@ ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
 darkreader.org##.icons8
 timesofisrael.com##.idfwo-widget-wrapper
+indianexpress.com##.ie-ads-block-frontend
 indianexpress.com##.ie-adsbox
 indianexpress.com##.ie-adtext
 indianexpress.com##.ie-banner-wrapper
