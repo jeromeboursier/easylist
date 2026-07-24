@@ -5068,7 +5068,6 @@
 ##.ad-lazy
 ##.ad-lb
 ##.ad-ldrbrd
-##.ad-lead
 ##.ad-lead-bottom
 ##.ad-lead-magnet
 ##.ad-leader
