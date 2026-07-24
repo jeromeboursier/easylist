@@ -285,6 +285,7 @@
 ||ruscams.com/promo/
 ||s.bussyhunter.com^
 ||s.dsabva.com^
+||s.dsnucs.com^
 ||s.dspbw7.com^
 ||saboom.com.pccdn.com^*/banner/
 ||sakuralive.com/dynamicbanner/
