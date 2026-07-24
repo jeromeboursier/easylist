@@ -520,7 +520,7 @@ asiangay.tv,asiangaysex.net,gaysex.tv,gayxx.net,japangaysex.com,jav.com.co##.flo
 hentaiworld.tv,sulasok.uno##.floating-banner
 xgroovy.com##.fluid-b
 yourlust.com##.fluid_html_on_pause
-some.porn##.fluid_html_on_pause_container
+some.porn,xcafe.com##.fluid_html_on_pause_container
 xgroovy.com##.fluid_next_video_left
 xgroovy.com##.fluid_next_video_right
 stileproject.com##.fluid_nonLinear_bottom
